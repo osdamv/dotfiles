@@ -4,8 +4,6 @@ filetype off
 "git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/vundle.vim
 set rtp+=~/.vim/bundle/vundle.vim
 call vundle#begin()
-Plugin 'gmarik/vundle.vim'
-Plugin 'gmarik/Vundle'
 Plugin 'kien/ctrlp.vim'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'scrooloose/syntastic'
